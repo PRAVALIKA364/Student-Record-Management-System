@@ -13,7 +13,7 @@ The project allows users to perform basic CRUD operations such as adding, search
 - Delete student records
 - Display all students
 - Store data permanently using file handling
-- Prevent duplicate student IDs
+- Prevent duplicate student    IDs
 
 ---
 
